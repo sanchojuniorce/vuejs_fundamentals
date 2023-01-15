@@ -1,1 +1,1 @@
-# vuejs_fundamentals
+# vuejs_fundamentals_components
